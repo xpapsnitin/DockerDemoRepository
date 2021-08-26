@@ -9,7 +9,7 @@ public class HomeController {
 	@GetMapping("/")
 	private String hello() {
 		
-		return "Hello Docker demo application.....";
+		return "Hello..........";
 	}
 
 }
